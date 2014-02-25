@@ -16,7 +16,7 @@
         }],
     "autoload": {
         "psr-0" : {
-            "sam\\simpleimage" : "src"
+            "samjoyce777\\simpleimage" : "src"
         }
     }
 }
